@@ -7,7 +7,7 @@
 - Reginald Oh.
 - Sim Teng Leong.
 
-## Features
+## Classroom4U Features
 - **Customized Learning Paths**: Tailored curriculum based on each student's needs and preferences.
 - **Expert Tutors**: One-on-one sessions with qualified tutors for additional support.
 
