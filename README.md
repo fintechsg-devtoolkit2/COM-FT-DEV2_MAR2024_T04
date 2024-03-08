@@ -1,8 +1,13 @@
 # COM-FT-DEV2_MAR2024_T04
 # NUS Classroom4U
 
-## Features
+## Team Members
 
+- Moses Wu.
+- Reginald Oh.
+- Sim Teng Leong.
+
+## Features
 - **Customized Learning Paths**: Tailored curriculum based on each student's needs and preferences.
 - **Expert Tutors**: One-on-one sessions with qualified tutors for additional support.
 
