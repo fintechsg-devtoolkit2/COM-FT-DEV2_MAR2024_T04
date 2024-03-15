@@ -1,0 +1,14 @@
+# These are the parameters that need to be set in the .env file
+
+# Database: To connect to mysql
+DB_HOST= location of the mysql database server
+DB_PORT= port on which to connect to the database server
+DB_USER= username to access the database server
+DB_PASS= password for this database user
+DB_NAME= name of the database
+
+# Auth0: For user authentication
+ISSUER_BASE_URL=https://YOUR_DOMAIN  # DOMAIN listed in your Auth0's application
+CLIENT_ID=YOUR_CLIENT_ID             # CLIENT_ID listed in your Auth0's application
+BASE_URL=https://YOUR_APPLICATION_ROOT_URL  # Where your application starts (default is http://localhost:3000)
+SECRET=LONG_RANDOM_VALUE             # Any random 32-character string you want to type
